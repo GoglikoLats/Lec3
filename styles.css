@@ -1,0 +1,22 @@
+h1{
+    color: red;
+    background-color: black;
+
+}
+
+.text {
+    color: green;
+}
+
+#text2 {
+    color: rgb(0, 255, 170);
+}
+
+.lightblue {
+    color: lightblue;
+}
+
+table, th, td {
+    border: 2px solid black; margin: 0;
+}
+
